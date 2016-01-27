@@ -5,6 +5,8 @@
       - Ruby
       - C#
     secondary:
+      - C++
+      - Golang
       - Java
       - Javascript
 - Frameworks:
