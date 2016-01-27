@@ -1,0 +1,49 @@
+- org:  InComm Digital Solutions
+  role: Sr. Software Engineer
+  location: Portland, OR
+  when: Aug 2015 - Now
+  bullets:
+    - Decreased release deployment times by 50% by formalizing and refining deployment processes
+    - Reduced CI process cycle time by 60% by optimizing build pipeline
+    - Implemented binary promotion strategy to eliminate need for reproducible builds
+
+- org:  Thetus
+  role: System Administrator & Deployment Engineer
+  location: Portland, OR
+  when: July 2013 - July 2015
+  bullets:
+    - Managed and maintained internal network and systems infrastructure
+    - Core contributor and maintainer of deployment automation utilizing Ansible
+    - Developed and maintained virtualization infrastructure utilizing Citrix XenServer
+    - Designed and implemented log monitoring using Elasticsearch, Logstash, and Kibana
+    - Designed and implemented metrics monitoring using Collectd, Riemann, InfluxDB, and Grafana
+    - Oversaw migration from SVN to Git including migration to on-premesis Gitlab instance for SCM
+    - Core member of Engineering Technologies Group to manage adoption and onboarding of new technologies
+
+- org: RGB Automation
+  role: Co-Owner & Systems Engineer
+  location: Minneapolis, MN
+  when: Nov 2012 - May 2013
+  bullets:
+    - Developed web based monitoring service for small independent hydroelectric operators
+    - Design and manufacturing of equipment for interface with metering hardware
+    - Design and implementation of equipment for interface with seismic measurement devices
+    - Developed software for embedded ARM devices using C++
+
+- org: Industrial Automation Engineering
+  role: Project Engineer
+  location: Minneapolis, MN
+  when: Sept 2011 - Oct 2012
+  bullets:
+    - Consulting project engineer for operator interfaces and archival of historical trends
+    - Designed and implemented industrial controls with primary focus on grain logistics and storage
+
+- org: L&S Electric
+  role: IT Specialist & Systems Engineer
+  location: Schofield, WI
+  when: Aug 2009 - Aug 2011
+  bullets:
+    - Consulting project engineer for operator interfaces and archival of historical trends
+    - Designed and implemented industrial controls with primary focus on hydroelectric industry
+    - Developed specialized toolkit used by field service technicians for managing systems and devices using OPC protocol
+    - Developed integrations for Microsoft Project and SharePoint to AS/400 system to streamline billing and payroll processes

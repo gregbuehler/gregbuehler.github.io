@@ -1,0 +1,35 @@
+- Languages:
+    primary:
+      - Bash
+      - Python
+      - Ruby
+      - C#
+    secondary:
+      - Java
+      - Javascript
+- Frameworks:
+    primary:
+      - Ansible
+      - Sinatra
+    secondary:
+      - Puppet
+      - Chef
+      - Rails
+      - Django
+      - Flask
+      - ASP.NET
+- Systems:
+    primary:
+      - Debian
+      - Red Hat
+      - Docker
+      - Nginx
+      - Tomcat
+      - Logstash
+      - AWS
+    secondary:
+      - Azure
+      - Windows
+      - Apache
+      - Riemann
+      - Collectd
