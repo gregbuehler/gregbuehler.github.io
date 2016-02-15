@@ -7,6 +7,12 @@
     - Reduced CI process cycle time by 60% by optimizing build pipeline
     - Implemented binary promotion strategy to eliminate need for reproducible builds
 
+- org:  PDX DevOps Ground Up Meetup Group
+  role: Co-Organizer
+  location: Portland, OR
+  when: Jan 2015 - Now
+  bullets: []
+
 - org:  Thetus
   role: System Administrator & Deployment Engineer
   location: Portland, OR

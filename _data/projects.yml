@@ -1,5 +1,30 @@
-- org:  PDX DevOps Ground Up Meetup Group
-  role: Co-Organizer
-  location: Portland, OR
-  when: Jan 2015 - Now
+- org:  <a href="https://www.github.com/gregbuehler/gizmo">gizmo</a>
+  role: A toy-like configuration management tool
+  location:
+  when: 2016
+  bullets: []
+
+- org:  <a href="https://www.github.com/gregbuehler/metrics-in-a-box">metrics-in-a-box</a>
+  role: Super simple framework for collecting data bundling InfluxDB, Grafana, and a scheduler
+  location:
+  when: 2015
+  bullets: []
+
+- org:  <a href="https://www.github.com/gregbuehler/interpol">interpol</a>
+  role: A commandline tool to search interpol's red notice list
+  location:
+  when: 2015
+  bullets: []
+
+
+- org:  <a href="https://www.github.com/gregbuehler/ansible-kibana">ansible-kibana</a>
+  role: An Ansible playbook to install the ELK stack
+  location:
+  when: 2014
+  bullets: []
+
+- org:  <a href="https://www.github.com/gregbuehler/echelon">echelon</a>
+  role: A proof-of-concept for simple analysis of http traffic using PCAP
+  location:
+  when: 2014
   bullets: []
